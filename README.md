@@ -1,2 +1,2 @@
 # Trial
-Hey, this was my frirst trail repo :P
+Hey, this was my frirst trail repo :P.
